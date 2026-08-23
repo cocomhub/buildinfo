@@ -1,0 +1,16 @@
+build
+*.exe
+*.out
+*.cover
+*.test
+*.prof
+cover*
+coverage.*
+certs
+logs
+.DS_Store
+*.bak
+.idea
+.trae/
+*tmp*
+tmp/
